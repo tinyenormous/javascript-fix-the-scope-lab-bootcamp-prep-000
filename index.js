@@ -16,6 +16,11 @@ function add2(n) {
     // Feel free to move things around!
   const two = 2
   return n + two
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 92087f450e023061e16d659f56a022d21bbda449
 }
 
 var funkyFunction = function() {
